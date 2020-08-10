@@ -2,6 +2,9 @@
 
 Demonstration of an R Package
 
+    > install.packages("renv")
+    > renv::init()
+    Restart R.
     > install.packages("devtools")
     > devtools::install_github("ctsit/rdemo")
     > rdemo::main()
