@@ -2,7 +2,7 @@
 
 Demonstration of an R Package
 
-    > install.package("devtools")
+    > install.packages("devtools")
     > devtools::install_github("ctsit/rdemo")
     > rdemo::main()
 
