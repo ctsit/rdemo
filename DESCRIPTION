@@ -1,0 +1,8 @@
+Package: rdemo
+Title: Demonstration of R Packaging for the CTS-IT
+Version: 0.1
+Authors@R: person("Taeber", "Rapczak", email = "taeber@ufl.edu",
+                  role = c("aut", "cre"))
+Description: Helper functions specific to CTS-IT.
+    Also, a demonstration of R packages.
+License: MIT
